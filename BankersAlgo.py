@@ -43,4 +43,4 @@ if sequences:
     for seq in sequences:
         print(" -> ".join(f'P{i}' for i in seq))
 else:
-    print("No safe sequence exists.")
+    print("No safe sequence exists")
